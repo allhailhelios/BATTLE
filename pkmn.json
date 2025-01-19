@@ -1,0 +1,84 @@
+{
+  "pokemon": {
+    "pikachu": {
+      "name": "Pikachu",
+      "type": ["Electric"],
+      "hp": 50,
+      "moveset": [
+        {"move": "Thunderbolt", "power": 20, "type": "Electric"},
+        {"move": "Quick Attack", "power": 15, "type": "Normal"},
+        {"move": "Thunder Wave", "power": 0, "type": "Electric", "effect": "Paralyzes the opponent"}
+      ]
+    },
+    "bulbasaur": {
+      "name": "Bulbasaur",
+      "type": ["Grass"],
+      "hp": 45,
+      "moveset": [
+        {"move": "Vine Whip", "power": 20, "type": "Grass"},
+        {"move": "Tackle", "power": 10, "type": "Normal"},
+        {"move": "Sleep Powder", "power": 0, "type": "Grass", "effect": "Puts the opponent to sleep"}
+      ]
+    },
+    "charmander": {
+      "name": "Charmander",
+      "type": ["Fire"],
+      "hp": 45,
+      "moveset": [
+        {"move": "Ember", "power": 20, "type": "Fire"},
+        {"move": "Scratch", "power": 10, "type": "Normal"},
+        {"move": "Growl", "power": 0, "type": "Normal", "effect": "Lowers the opponent's attack"}
+      ] 
+    },
+    "squirtle": {
+      "name": "Squirtle",
+      "type": ["Water"],
+      "hp": 45,
+      "moveset": [
+        {"move": "Water Gun", "power": 20, "type": "Water"},
+        {"move": "Tackle", "power": 10, "type": "Normal"},
+        {"move": "Withdraw", "power": 0, "type": "Water", "effect": "Raises the user's defense"}
+      ] 
+    },
+    "weedle": {
+      "name": "Weedle",
+      "type": ["Bug"],
+      "hp": 30,
+      "moveset": [
+        {"move": "Poison Sting", "power": 15, "type": "Poison"},
+        {"move": "Tackle", "power": 10, "type": "Normal"},
+        {"move": "String Shot", "power": 0, "type": "Bug", "effect": "Lowers the opponent's speed"}
+      ] 
+    },
+    "sneasel": {
+      "name": "Sneasel",
+      "type": ["Ice"],
+      "hp": 60,
+      "moveset": [
+        {"move": "Ice Shard", "power": 25, "type": "Ice"},
+        {"move": "Slash", "power": 30, "type": "Normal"},
+        {"move": "Taunt", "power": 0, "type": "Dark", "effect": "Forces the opponent to use attacking moves only"}
+      ] 
+    },
+    "eevee": {
+      "name": "Eevee",
+      "type": ["Normal"],
+      "hp": 50,
+      "moveset": [
+        {"move": "Tackle", "power": 20, "type": "Normal"},
+        {"move": "Swift", "power": 30, "type": "Normal"},
+        {"move": "Growl", "power": 0, "type": "Normal", "effect": "Lowers the opponent's attack"}
+      ] 
+    },
+    "missingno": {
+      "name": "MissingNO",
+      "type": ["???"],
+      "hp": 999,
+      "moveset": [
+        {"move": "Tackle", "power": 0, "type": "Normal"},
+        {"move": "Swift", "power": 0, "type": "Normal"},
+        {"move": "Growl", "power": 0, "type": "Normal", "effect": "Lowers the opponent's attack"}
+      ] 
+    }
+  }
+}

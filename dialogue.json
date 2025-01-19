@@ -1,0 +1,37 @@
+{
+  "trainers": {
+    "silver": {
+      "name": "Silver",
+      "desc": null,
+      "dialogue": {
+        "intro": "I'm Silver. Let's see how strong you really are.",
+        "win": "Humph. That was a waste of time.",
+        "lose": "Humph. Are you happy you won?",
+        "battle": null
+      }
+    },
+    "blue": {
+      "name": "Blue",
+      "desc": null,
+      "dialogue": {
+        "intro": null,
+        "win": "Yeah! Am I great or what?",
+        "lose": "WHAT? Unbelievable! I picked the wrong Pokémon!",
+        "battle": "Don’t think you’ve won yet!"
+      }
+    },
+    "bugsy": {
+      "name": "Bugsy",
+      "desc": null,
+      "dialogue": {
+        "intro": "I'm Bugsy, the bug-type expert! Are you ready?",
+        "win": "Bug types will always be strong!",
+        "lose": "Whoa, amazing! You're an expert on Pokémon!\nMy research isn't complete yet. OK, you win. Take this Badge.",
+        "gym-challenge": "Prepare yourself for my buggy team!"
+      },
+      "is_gym_leader": true,
+      "badge-name": "Hive Badge"
+    }
+  }
+}
+
