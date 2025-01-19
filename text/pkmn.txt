@@ -1,0 +1,20 @@
+[01] Pikachu // electric
+Thunderbolt, Quick Attack, Thunder Wave
+
+[02] Eevee // normal
+Swift, Tackle, Growl
+
+[03] Bulbasaur // grass
+Vine Whip, Tackle, Sleep Powder
+
+[04] Charmander // fire
+Ember, Scratch, Growl
+
+[05] Squirtle // water
+Water Gun, Tackle, Withdraw
+
+[06] Sneasel // ice
+Ice Shard, Slash, Taunt
+
+[07] Weedle // poison
+Poison Sting, Tackle, String Shot

@@ -1,0 +1,12 @@
+to do:
+
+
+1. implement trainers
+2. add status moves
+
+
+add more pokemon
+
+add more trainers
+
+

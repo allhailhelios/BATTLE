@@ -1,0 +1,18 @@
+# --- Opponents -- ◓
+
+[01] Blue - Rival
+1: Squirtle
+
+[02] Silver - Rival
+1: Sneasel
+
+# --- Gym Leaders -- ◓
+
+[0X] Bugsy - Gym Leader
+1: Weedle
+2: Scyther
+Badge: Hive Badge
+
+# --- Champion -- ◓
+
+
