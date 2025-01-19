@@ -1,4 +1,4 @@
-
+![alt text]([http://url/to/img.png](https://i.postimg.cc/KYG4LT4d/temp-Image2-QBX9l.avif))
 # Pokemon Battle Sim (python)
 
 This is a text based Pokemon battling simulator, as obvious as that is by now. This program takes elements from both the mainline games and the trading card game, so it ends up being its own thing, in a way.
