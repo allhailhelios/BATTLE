@@ -131,14 +131,14 @@ def shinyChance():    # shiny chance
 
 def listTrainers():
 		clear()
-		readme = open("./txtxt/trainers.txt", "r")
+		readme = open("./text/trainers.txt", "r")
 		print(readme.read())
 		input("\n\npress ENTER to exit")
 		clear()
 
 def listPkmn():
 		clear()
-		readme = open("./txtxt/pkmn.txt", "r")
+		readme = open("./text/pkmn.txt", "r")
 		print(readme.read())
 		input("\n\npress ENTER to exit")
 		clear()
@@ -286,7 +286,7 @@ while True:
 		break
 	elif startup == "5":
 		clear()
-		readme = open("./txtxt/README.md", "r")
+		readme = open("./text/README.md", "r")
 		print(readme.read())
 		input("\n\npress ENTER to exit")
 		clear()
