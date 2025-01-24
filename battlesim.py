@@ -271,7 +271,7 @@ def update_battle_log(result):
 def start_battle():
 	print("placeholder text")
 	player_choice = input("Choose your Pokémon: ").lower()
-	opponent_choice = "missingno"      # pokemon you wish to battle
+	opponent_choice = "charmander"      # pokemon you wish to battle
 	simulate_battle(player_choice, opponent_choice)
 
 
