@@ -79,6 +79,16 @@
         {"move": "Swift", "power": 0, "type": "Normal"},
         {"move": "Growl", "power": 0, "type": "Normal", "effect": "Lowers the opponent's attack"}
       ] 
+    },
+    "poliwhirl": {
+      "name": "Poliwhirl",
+      "type": ["Water"],
+      "hp": 70,
+      "moveset": [
+        {"move": "Water Gun", "power": 20, "type": "Water"},
+        {"move": "Wake-Up Slap", "power": 10, "type": "Normal"},
+        {"move": "Hypnosis", "power": 0, "type": "Normal", "effect": "Puts the opponent to sleep"}
+      ] 
     }
   }
 }
