@@ -2,8 +2,6 @@
 
 This is a text based Pokemon battling simulator, as obvious as that is by now. This program takes elements from both the mainline games and the trading card game, so it ends up being its own thing, in a way.
 
-Fight with various trainers. If you're up for the challenge, take on the 8 gym leaders and meet with the champion. Bill will (try to) help you along the way.
-
 (currently a big work in progress)
 
 
