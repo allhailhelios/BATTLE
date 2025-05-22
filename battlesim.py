@@ -296,7 +296,6 @@ def start_battle():
 
 #-------------------
 loadingBar(3)  
-shinyChance()
 while True:
 	checkLog()
 	print("[1] boot-up Simulator [2] PKMN [3] view TRAINERS [4] TRAINER card [5] about [E] exit\n")
