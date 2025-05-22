@@ -70,16 +70,6 @@
         {"move": "Growl", "power": 0, "type": "Normal", "effect": "Lowers the opponent's attack"}
       ] 
     },
-    "missingno": {
-      "name": "MissingNO",
-      "type": ["???"],
-      "hp": 999,
-      "moveset": [
-        {"move": "Tackle", "power": 0, "type": "Normal"},
-        {"move": "Swift", "power": 0, "type": "Normal"},
-        {"move": "Growl", "power": 0, "type": "Normal", "effect": "Lowers the opponent's attack"}
-      ] 
-    },
     "poliwhirl": {
       "name": "Poliwhirl",
       "type": ["Water"],
